@@ -5,7 +5,6 @@ package com.example;
  */
 public class Greeter {
 
-	private String name;
   /**
    * This is a constructor.
    */
